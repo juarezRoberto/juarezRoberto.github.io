@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.upax.zeus.dev",
+    "sha256_cert_fingerprints":
+    ["5D:73:0C:4C:A0:F3:8B:25:6D:36:99:CC:24:91:F3:CD:4A:C2:DB:97:55:0E:A4:52:62:16:D0:BF:42:99:CA:27"]
+  }
+}]
